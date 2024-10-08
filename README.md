@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="utils/assets/Sentinel.png" alt="Sentinel Logo" width="300"/>
+</div>
 
 # Sentinel - Leak Detection System
 
