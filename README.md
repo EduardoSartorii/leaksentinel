@@ -105,4 +105,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-**Autor**: [Seu Nome](https://github.com/seuusuario)
+**Autor**: [Eduardo Sartori](https://github.com/EduardoSartorii)
